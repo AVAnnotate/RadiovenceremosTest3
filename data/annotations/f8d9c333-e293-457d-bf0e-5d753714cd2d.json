@@ -1,5 +1,3122 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 9,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Radio Venceremos is heard from the center of the mountain,  transmitting its message  with the power of a people in arms.  At 6:00 AM  its transmission is heard,  it's Radio Venceremos  and it's the voice of our revolution.  It’s a powerful radio station,  everyone here listens to it,  it’s Farabundo Marti’s guerrilla radio.  It’s a powerful radio station,  and everyone here listens to it,  it’s Farabundo Marti’s guerrilla radio.   All the combatants are very motivated  because Radio Venceremos  has them well-informed.  All the combatants are very motivated  because Radio Venceremos  has them well-informed.  It’s a powerful radio station,  everyone here listens to it,  it’s Farabundo Marti’s guerrilla radio.  It’s a powerful radio station,  everyone here listens to it,  it’s Farabundo Marti’s guerrilla radio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "ab9ea0c0-38a2-4158-9f45-c692a48112db"
+    },
+    {
+      "start_time": 161,
+      "end_time": 231,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The people, united, will never be defeated! The people, united, will never be defeated! The people, united, will never be defeated!  On foot, singing Because we’re going to triumph. Advance now Flags of unity. And you will come Marching next to mi and in that way you will see your song and your flag flourish. The light  of a red dawn now announces the life which will come.   On foot, marching The people will triumph. The life that will come Will be better To conquer Our happiness And in one shout A thousand voices in combat will raise Shall sing A song of liberty With determination The homeland will prevail."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "5225ec87-5ae0-4983-af1e-c91b89afbf76"
+    },
+    {
+      "start_time": 232,
+      "end_time": 251,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Radio Venceremos, the official voice of the Farabundo Marti for National Liberation Front, transmitting its signal of liberty from El Salvador, Central America, a territory in combat against oppression and imperialism."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos FMLN"
+        }
+      ],
+      "uuid": "0ad7ee33-713d-433f-b18a-ca206466568a"
+    },
+    {
+      "start_time": 252,
+      "end_time": 274,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The motherland is forging unity. From north to south people will mobilize, from the salt flat hot and mineral to the southern forest, united in the fight and the work, they will go, they will cover the motherland."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "136ec703-044a-401c-a775-8f125fad1ad5"
+    },
+    {
+      "start_time": 270,
+      "end_time": 286,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this opportunity, our mobile unit crossed territories controlled by the Francisco Sanchez Eastern Front, crossing over rivers and mountains, until they reached the village of El Junquillo in the department of Morazán, where the dictatorship committed one of its habitual massacres against innocent elderly, women, and children."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "26dc30a7-66cf-4871-8d3b-459b4ad17da2"
+    },
+    {
+      "start_time": 287,
+      "end_time": 314,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "…steely are the ardent battalions, their hands go, carrying the justice and the reasoning. Woman, with fire and with courage, now you are here together with the working man.  And now the people rise up in the fight with the voice of a giant, shouting: forward!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "45bb48b8-9857-4252-a69e-57a84e7fd4e8"
+    },
+    {
+      "start_time": 315,
+      "end_time": 340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Accompanying the Salvadoran people in their victorious progress, Radio Venceremos is on the air through the International Radio Band 40 Meters 7 Mega Hertz. Radio Venceremos, an expression of popular power over the territories controlled by our people in arms."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "3f3cbc4d-fa99-4e60-9612-c938baa1961d"
+    },
+    {
+      "start_time": 346,
+      "end_time": 357,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this way, Radio Venceremos, the official voice of the Farabundo Marti National Liberation Front begins this hour’s broadcast."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "a00bdffc-4493-4e60-a431-268c49bd7829"
+    },
+    {
+      "start_time": 358,
+      "end_time": 404,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And we begin with the optimism that overwhelms our people in these moments as they advance in their struggles. Our revolutionary forces have placed the dictatorship in an unsustainable position as they defeat all the attempts to annihilate the people’s forces. It’s a significant sign that the militias are strengthening in the entire country. They grow in number and discipline and revolutionary mystique. Our army strengthens and prepares for the decisive combats for the conquest of peace."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "18a5891d-e0b5-4b47-ab6c-2a7bc49d6f10"
+    },
+    {
+      "start_time": 405,
+      "end_time": 423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Salvadorans, strengthen our organization, and our discipline! At the most difficult hour, the world's countries see our advances as progress at a winning pace."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "97de91be-9251-40ae-9b52-2e9e6e805af3"
+    },
+    {
+      "start_time": 424,
+      "end_time": 449,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Come, Let us go now Waiting if not knowing The time has come And there is no time to waste. Come, Let us go now. Waiting if not knowing The time has come And there is no time to waste. Love, In the hands and in the heart, We are all soldiers…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "65b90912-ae91-40c2-a2ce-a2d9c31c468b"
+    },
+    {
+      "start_time": 450,
+      "end_time": 483,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Radio Venceremos sends a fraternal and combative greeting to our heroic Salvadoran people who, amid martial law, and the state of siege, and despite all the repression unleashed against it, breaks the chains that muzzle its protests and listen to the radio that it has built after long years of struggle."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "e4995773-b7a7-42cd-8576-afce77d3a202"
+    },
+    {
+      "start_time": 484,
+      "end_time": 507,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Radio Venceremos, is the official voice of the Farabundo Marti National Liberation Front, and the voice of the Salvadoran people in arms. A heroic greeting to you, Salvadoran people. Radio Venceremos greets you. The present is a struggle, the future is ours!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos FMLN"
+        }
+      ],
+      "uuid": "bf3174e5-e372-43e2-b131-e7f1002e0fde"
+    },
+    {
+      "start_time": 508,
+      "end_time": 532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And now the people rises up in the fight with the voice of a giant, shouting: forward!  The united people will never be defeated, the united people will never be defeated..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "b87005f9-bea7-457a-beb0-49bb29f8ea9e"
+    },
+    {
+      "start_time": 534,
+      "end_time": 550,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Next we present an interesting interview between journalist Gregory Seltzer and Pierre Schori, International Secretary of Sweden’s Socialdemocratic Party."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "7cd0b933-c8dd-4bff-9162-7dbb7091e097"
+    },
+    {
+      "start_time": 551,
+      "end_time": 558,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(music)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "0dda9c56-e82f-47a3-9591-c967f5248301"
+    },
+    {
+      "start_time": 559,
+      "end_time": 567,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We would be interested in knowing what is the present state of the pending process for a political solution for El Salvador."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gregory Seltzer"
+        }
+      ],
+      "uuid": "598f104f-030c-49be-98d4-1e24ba484a0c"
+    },
+    {
+      "start_time": 569,
+      "end_time": 592,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Central America, I held conversations with President Jose Lopez Portillo, President Luis Herrera Campins, Napoleon Duarte, General Omar Torrijos, Commander Fidel Castro, and Guillermo Ungo of the Revolutionary Democratic Front."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pierre Schori",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "f2900f64-0d72-4c22-a867-95aed1ebfd94"
+    },
+    {
+      "start_time": 593,
+      "end_time": 617,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Of course, the result of a concrete and detailed proposal from the Revolutionary Democratic Front and the Farabundo Marti for the National Liberation Front to the regime of Duarte--I cannot go into details for obvious reasons. It is something that needs to be managed by those directly involved."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gregory Seltzer"
+        }
+      ],
+      "uuid": "5dd79f78-a338-44f4-97fb-12089344869e"
+    },
+    {
+      "start_time": 618,
+      "end_time": 619,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tell us what is possible to share."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pierre Schori",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "57444300-67c8-4de9-b808-b852fb248e25"
+    },
+    {
+      "start_time": 621,
+      "end_time": 663,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As of now, there is no positive response. The reality is that a viable solution was rejected by the United States and the Salvadoran administration. The conclusion I deduce from that is that only is there a clear desire to reach a political solution from the opposition, but there has been a method to reach this process. This method, this proposal continues to be valid and supported by the opposition, but of course, that cannot be the only thing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gregory Seltzer"
+        }
+      ],
+      "uuid": "ddc932cf-b937-493e-8301-e0f3297b2858"
+    },
+    {
+      "start_time": 664,
+      "end_time": 687,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On the other hand, another conclusion is that the only obstacle to ending this Salvadoran terror is the negative attitude towards the negotiating process on behalf of the United States and the military, the latter whose opinions differ from Washington’s."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pierre Schori",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "28bd9837-5561-4751-b04a-e37f95f3b083"
+    },
+    {
+      "start_time": 689,
+      "end_time": 703,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We are reproducing an important interview of Pierre Schori, the International Secretary of Sweden’s Socialdemocrat party carried out by the journalist Gregory Seltzer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "a34f40c2-a84e-4b0d-8a74-894a4bcd2205"
+    },
+    {
+      "start_time": 704,
+      "end_time": 720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To what do we owe that reluctant, resistant, and contrary position of the United States and the Democratic Christian military junta? What’s the expectation that harbors the purpose of this attitude?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gregory Seltzer"
+        }
+      ],
+      "uuid": "1205294e-b4b9-4038-8046-0e50a989034b"
+    },
+    {
+      "start_time": 722,
+      "end_time": 754,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can only guess in these types of situations. It would seem that they are trying to weaken as soon as possible the democratic opposition. That’s why they’re sending in weapons in innumerable quantities, weapons that are really not needed in El Salvador. At the same time, they’re trying to deceive world public opinion with the promise of the next elections."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pierre Schori",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "a9bb8d1e-7afb-44ee-bdb3-6db98050bbdb"
+    },
+    {
+      "start_time": 755,
+      "end_time": 791,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is absurd, to talk about elections when there’s a civil war and a war of liberation going on, elections in this country where the list of death row inmates includes the most important leaders of the opposition. Negotiations need to begin before the celebration of elections because otherwise the votes will be cast in the cemeteries."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pierre Schori",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "481dbbc4-24f5-49ff-b4cf-342aef95832a"
+    },
+    {
+      "start_time": 792,
+      "end_time": 812,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Taking into consideration that you were in Honduras a few days ago and the information that flows towards Europe, you mentioned the great number of weapons that the United States sends. Is there an increase in the number of North American military consultants?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gregory Seltzer"
+        }
+      ],
+      "uuid": "8cc79146-4f11-4e66-8f1f-f62f83d3260a"
+    },
+    {
+      "start_time": 814,
+      "end_time": 859,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is and that’s very important. They say there are 54, which is a great number when compared to the number of officers in the Salvadoran Army, which is 500. That’s more than 10%, but it can also be noted that the North American military presence has a brutalizing effect. I noticed that. According to Honduras, for example, the attitude of the Honduran army on the border with El Salvador has hardened with the arrival of those consultants, according to Honduras."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pierre Schori",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "6bc0614f-8e42-4d5e-bcf8-c8f9917bd1b9"
+    },
+    {
+      "start_time": 860,
+      "end_time": 906,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was the result of the process by Mr. Wischnewski in that region? Did it succeed or fail? We ask because, according to statements by newspapers like the New York Times and the Washington Post, Duarte as well as North American government authorities showed Mr. Wischenwsky a document attributed to the Revolutionary Democratic Front and the Farabundo Marti National Liberation Front which states that the process of politics and peace talks is nothing but a way to buy time with the objective of improving personal conditions at the negotiating table."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gregory Seltzer"
+        }
+      ],
+      "uuid": "12c9ead4-87fd-45e9-b6fe-d303777f2ffa"
+    },
+    {
+      "start_time": 907,
+      "end_time": 959,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That’s why Mr. Wischnewski should have made more trips and established more contacts to qualify that situation and the conclusion he reached. In Amsterdam he met with the European socialdemocratic parties and discussed what is an honest, very clear, and valid proposal. This document, according to what they say, is an option among many in a different time, but the proposal Mr. Ungo presents is the one that counts, and it’s the one we recognize as authentically from the Revolutionary Democratic Front y from the Farabundo Marti National Liberation Front."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pierre Schori",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "7545923e-f165-4ab0-aa88-3a5c74f253dd"
+    },
+    {
+      "start_time": 960,
+      "end_time": 964,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What changed in the situation? Is it a strategic change?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gregory Seltzer"
+        }
+      ],
+      "uuid": "0f7d8dc6-f153-4016-8590-2e3bcdb0b502"
+    },
+    {
+      "start_time": 966,
+      "end_time": 979,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Revolutionary Democratic Front and the Farabundon Marti National Liberation Front are committed to a clear and well-defined project."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pierre Schori",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "4b161499-4f64-4fc2-a434-e5d4302db3c6"
+    },
+    {
+      "start_time": 981,
+      "end_time": 1008,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Regarding the April 30th meeting European Socialdemocracy in Amsterdam, there was a unanimous acknowledgement of the Salvadoran situation. Was there a consensus regarding the processes in favor of a political solution as suggested by a certain news outlet, did someone side with the European or Latinamerican Christian democracies?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gregory Seltzer"
+        }
+      ],
+      "uuid": "06b6ef85-946b-4969-9a2a-0e5172bae655"
+    },
+    {
+      "start_time": 1009,
+      "end_time": 1054,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, on the contrary. There is unanimity inside the International Socialists in their solidarity and fraternal support towards the National Revolutionary Movement (MNR) as a member of the International Socialists and the Revolutionary Democratic Front, and we were completely unanimous in the condemnation of the United States’s militaristic policy, and in condemning the military aid and the obstruction to the negotiating process. We continue to propose a political solution, a negotiated solution."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pierre Schori",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "7600fde3-d8dc-4dde-8c3d-0efccc699c77"
+    },
+    {
+      "start_time": 1055,
+      "end_time": 1076,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why this dedication? Many observers have noticed the European Social Democracy’s interest in Central America. Before now it was Nicaragua, now it’s El Salvador, Honduras, and Guatemala. Would you like to comment on this?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gregory Seltzer"
+        }
+      ],
+      "uuid": "96aad64d-7b90-4f7f-846a-14df412eee1e"
+    },
+    {
+      "start_time": 1077,
+      "end_time": 1112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, it’s true that we are criticized for dedicating so much of our time to Central America. We are asked why we don’t worry as much about Afghanistan. Our response is that we want to avoid another Afghanistan in El Salvador, another Vietnam. There is a possibility of accomplishing that by mobilizing public international opinion and that of the United States."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pierre Schori",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "f162d6ea-a69f-4fd6-87e6-81719510700a"
+    },
+    {
+      "start_time": 1113,
+      "end_time": 1162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I also want to comment that the election of François Mitterrand has reinforced even further the position of the International Socialists because the French Socialist Party has a very clear political project in regard to Latin America. The very President François Mitterrand has personal ties with many democratic Latin American leaders. Likewise, he was with Salvador Allende and he knows Guillermo Ungo very well. I think that Mitterrand’s election is very important for any weight that France might exercise on Latin American issues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pierre Schori",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "d0b68844-6df5-4282-b958-12517b7c2e1b"
+    },
+    {
+      "start_time": 1163,
+      "end_time": 1169,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(music)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "1e8c10fa-d857-49e6-b189-f15b7ceae066"
+    },
+    {
+      "start_time": 1170,
+      "end_time": 1197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You’ve heard the first part of an important interview of Pierre Schori, the International Secretary of Sweden’s Social Democratic by journalist Gregory Seltzer. We invite our listeners to continue listening to this important interview tomorrow during our transmission."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "acd61f91-ddcb-4d16-9216-4fca9f67a56f"
+    },
+    {
+      "start_time": 1197,
+      "end_time": 1204,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(music)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "5bfeaea1-a8d5-4ea2-b016-511524a2a0b1"
+    },
+    {
+      "start_time": 1205,
+      "end_time": 1218,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Radio Venceremos, the official voice of the Farabundo Marti National Liberaton Front accompanying our people in their struggle for peace."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "0d92e60c-9cf4-45c6-840c-755d6384cb35"
+    },
+    {
+      "start_time": 1219,
+      "end_time": 1237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ashes are found  in the entire departament,  ashes  from the peasant family houses  and their belongings."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "ea516b68-d8b6-4c24-800d-04db45cb0e7a"
+    },
+    {
+      "start_time": 1238,
+      "end_time": 1262,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this opportunity, our mobile unit crossed territories controlled by the Francisco Sanchez Eastern Front, crossing over rivers and mountains, until they reached the village of El Junquillo in the department of Morazán, where the dictatorship committed one of its habitual massacres against innocent elderly, women, and children."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Massacre of Junquillo",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "eb9a7898-d7f5-465b-af31-9c79f0f2ed94"
+    },
+    {
+      "start_time": 1263,
+      "end_time": 1279,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This song That I sing to you Is of burnt houses By the imperialist fire Of the Junta and its Armed Forces.  This song That I sing to you Is of burnt houses By the imperialist fire Of the Junta and its Armed Forces."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "9a2d6f69-42c2-44fb-92af-b32e2f467b0c"
+    },
+    {
+      "start_time": 1280,
+      "end_time": 1335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In these moments, the microphones of Radio Venceremos are in the first house that we found in El Junquillo, where the Butcher of El Junquillo, Capitan Napoleon Medina Garay, carried out one of the most horrific massacres in the history of the department of Morazán. In this moments, we are entering a house that has been totally destroyed, it has not roof, all the roof tiles are on the floor, broken. Everything is burnt. There’s traces of children’s clothing. There’s a comrade that is going to explain to us, he’s going to describe what we’re seeing here. This really is one of the most macabre scenes that we’ve seen in our lives. There are human remains in the form of skeletons. Comrade, tell us, whose house was this?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Massacre Survivor"
+        }
+      ],
+      "uuid": "b21bbcee-d5b9-4640-a55a-f9f223958549"
+    },
+    {
+      "start_time": 1335,
+      "end_time": 1337,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This place belonged to Santos Chica."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marlene",
+          "category": "Person"
+        }
+      ],
+      "uuid": "c673dcd1-510f-4062-a8d0-12356a3b2ea6"
+    },
+    {
+      "start_time": 1337,
+      "end_time": 1340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Could you describe for what we’re looking at in this moment?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "9064af84-826f-4f1f-a39f-4cfce85a8554"
+    },
+    {
+      "start_time": 1342,
+      "end_time": 1357,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here we are looking at his remains; the remains of Santos Chica. Those are his pants that we see there, the pants of Santos Chica, the owner of this house. The remains over there are those of his daughter. His daughter must have been 20 or 22."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marlene",
+          "category": "Person"
+        }
+      ],
+      "uuid": "558ba56e-497d-42d3-b368-0e82455947cd"
+    },
+    {
+      "start_time": 1359,
+      "end_time": 1362,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Under what conditions did these people die?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "02cb56ee-6ac7-465d-bbc4-e5c516d37fcd"
+    },
+    {
+      "start_time": 1362,
+      "end_time": 1369,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When the enemy penetrated here through the east side, they didn’t give--they didn’t let them leave."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marlene",
+          "category": "Person"
+        }
+      ],
+      "uuid": "0d6147b3-262d-44d5-8375-53aa660699c8"
+    },
+    {
+      "start_time": 1371,
+      "end_time": 1372,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How many people did they kill here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "66e467f0-4836-4204-867c-b633b390fe8e"
+    },
+    {
+      "start_time": 1372,
+      "end_time": 1377,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They killed four people here. They killed two women and two strong men."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marlene",
+          "category": "Person"
+        }
+      ],
+      "uuid": "8b172431-c90a-4d1c-b347-b28bff022854"
+    },
+    {
+      "start_time": 1378,
+      "end_time": 1381,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you know how many children they killed here in this zone?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "85df1a55-d91d-49a5-9f69-d01bc864f786"
+    },
+    {
+      "start_time": 1382,
+      "end_time": 1391,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Maybe around 40 children. Yes, it’s a lot. You can’t get a precise count because it’s unknown how many, but the dead are a lot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marlene",
+          "category": "Person"
+        }
+      ],
+      "uuid": "bc4e7b8d-4535-4025-b3e9-ecc69bbe53ef"
+    },
+    {
+      "start_time": 1393,
+      "end_time": 1422,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We repeat, the scenes that we are seeing at this moment show us the genocidal character of the high military command. Here in El Junquillo, we see the footprint of the beast of what it means for El Salvador to have a dictatorship that has lost all sense of humanity, that desperately assassinates peasants, women, and children, whether they’re organized or not."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "e85a66ae-2d75-4871-8c0c-14ccafd682eb"
+    },
+    {
+      "start_time": 1422,
+      "end_time": 1430,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(music)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "653f8cd0-84ab-4f70-988f-2e6e742e5582"
+    },
+    {
+      "start_time": 1431,
+      "end_time": 1433,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Compañero, where did they find the body of the young woman?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "470c1b79-b306-44fa-bca8-4af4be06a638"
+    },
+    {
+      "start_time": 1434,
+      "end_time": 1445,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We found it right here next to the bed. I suspect that they took her from the bed to kill her and to do who knows what else they did to her, probably raped her, because we found her remains next to the bed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Raping",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "34572ccf-28ae-4aa6-acf9-b7be00c56a32"
+    },
+    {
+      "start_time": 1446,
+      "end_time": 1460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I want punishment I want punishment I want punishment"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "c96f31cb-98b3-45df-9158-5e6dcb52d853"
+    },
+    {
+      "start_time": 1462,
+      "end_time": 1492,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now we are the second burnt house here in El Junquillo. This is where Napoleon Medina Garay ordered the assassination of a barely two-day-old baby. Everything is destroyed, absolutely everything--beds, chairs. Nothing is whole here, nothing is in its perfect state."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "c2dfa61b-2115-4f8e-bbcd-f9cced4b79b6"
+    },
+    {
+      "start_time": 1493,
+      "end_time": 1507,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What happened here is that they killed the lady on the grate. She was around 80 years old. They killed her daughter-in-law who had given birth two days prior. They killed her and her baby."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marlene",
+          "category": "Person"
+        }
+      ],
+      "uuid": "3ffad812-8613-49c0-82b2-016940c0af0d"
+    },
+    {
+      "start_time": 1508,
+      "end_time": 1512,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Was it here where they found a two-day-old baby with a machete run through him?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "ac8211a8-9e91-4c83-84d7-26f051e27385"
+    },
+    {
+      "start_time": 1513,
+      "end_time": 1513,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marlene",
+          "category": "Person"
+        }
+      ],
+      "uuid": "02761312-f63a-4484-ad14-f1724dc9de74"
+    },
+    {
+      "start_time": 1514,
+      "end_time": 1522,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We continue seeing burnt houses everywhere throughout the territories of El Junquillo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "61d9a297-b0d3-4cba-89c9-28395c7d52e7"
+    },
+    {
+      "start_time": 1523,
+      "end_time": 1538,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In that house over there they killed a family of seven; they killed the mother, too. In this house over here, they killed nine. In that other house over there, they killed six, five, four children."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marlene",
+          "category": "Person"
+        }
+      ],
+      "uuid": "dbefbcfe-1cba-4440-b710-433909e5ad3e"
+    },
+    {
+      "start_time": 1539,
+      "end_time": 1558,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay, ay, We saw no one pass, The dark night swallows The torrential cries. Ay, ay,  The motherland, Is crying."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "620ac1d2-fcba-47c3-99f4-1d8575ad210b"
+    },
+    {
+      "start_time": 1559,
+      "end_time": 1568,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At this moment, Radio Venceremos has found a few female comrades, survivors of the killing at El Junquillo. With us now is comrade Marlene."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "18faaba1-2a65-4a72-b474-d601d189fee9"
+    },
+    {
+      "start_time": 1568,
+      "end_time": 1575,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marlene, could you tell us for Radio Venceremos what family you lost here in the El Junquillo Massacre?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "90a4f18b-a6d9-4173-9903-e064f2930c46"
+    },
+    {
+      "start_time": 1576,
+      "end_time": 1640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, I lost my mother, Francisca Díaz, who was 44 years old, my sister Juanita Diaz who was 22, and Santa Diaz, who was 20, Priscilla del Carmen Chica, who was six, Jose Dolores Diaz, who was three-years-old, Jose Arnoldo Pereira who was four months old, Tomasa Hayde, who was two months old, Simona Diaz Pereira, who was nine years old, Magdalena Pereira, who was three, Isnever Moises Pereira, who was two years old, and some of my uncles, too, Jose Eulalio Chica, who was 30 years old, Petronila Claro, who was 39 years old, and also--what was the name of those children?--Delfina Diaz, who was ten years old, and Anibal Diaz, who was two years old."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marlene",
+          "category": "Person"
+        }
+      ],
+      "uuid": "3d358c30-b6af-4f74-8fe4-7fabd232e020"
+    },
+    {
+      "start_time": 1641,
+      "end_time": 1644,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tell us how everything happened."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "bda084d4-c63b-4b2d-854b-8e1fc9982f28"
+    },
+    {
+      "start_time": 1644,
+      "end_time": 1668,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All those people were first raped and then killed with knives, they slit all those people’s throats, they say, All those North Americans that were with Napoleon Medina Garay. Yes, and that’s how they kill all those young babies, and also a two-day old baby girl. Her name was Dominga Diaz."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Raping",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "ad3d6e6a-d5b5-46e2-b0fa-39e8800270b6"
+    },
+    {
+      "start_time": 1669,
+      "end_time": 1681,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(music)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "731e5e6f-38b7-4ee0-bb2d-68a0930fe3e0"
+    },
+    {
+      "start_time": 1683,
+      "end_time": 1684,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What’s your name?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "13afafe8-a7d9-45d9-9347-ed6fbdb5839b"
+    },
+    {
+      "start_time": 1685,
+      "end_time": 1685,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Juan Tito Díaz."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marlene",
+          "category": "Person"
+        }
+      ],
+      "uuid": "63cb1565-7c6b-4d79-8526-945e04d94ef7"
+    },
+    {
+      "start_time": 1686,
+      "end_time": 1688,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tell us, did you, too, lose your family in El Junquillo?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "05f6944a-a773-467c-accf-e776ec846e57"
+    },
+    {
+      "start_time": 1689,
+      "end_time": 1690,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I lost seven."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marlene",
+          "category": "Person"
+        }
+      ],
+      "uuid": "1bf5ea9c-b665-48da-a5e8-d00bdb8ddce4"
+    },
+    {
+      "start_time": 1691,
+      "end_time": 1692,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Seven from your family?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "c2ccbb60-68d5-4b76-948d-f5f6005a5dcb"
+    },
+    {
+      "start_time": 1692,
+      "end_time": 1706,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. Guillermina Díaz y mi hermana María Santos Díaz, Margarito Díaz, José Antonio Savaldía Díaz, Isabel Díaz, Carlos Otilio Díaz, and Juan Ernesto Díaz."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marlene",
+          "category": "Person"
+        }
+      ],
+      "uuid": "551b7579-ecd2-492e-a598-49d5e575fe1f"
+    },
+    {
+      "start_time": 1708,
+      "end_time": 1708,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Who was responsible?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "6c21f072-9683-4df8-92f7-831a662fddd1"
+    },
+    {
+      "start_time": 1709,
+      "end_time": 1709,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Spies from Cacaopera."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marlene",
+          "category": "Person"
+        }
+      ],
+      "uuid": "ad3376cd-4bc0-470e-b91e-8589488de3f2"
+    },
+    {
+      "start_time": 1711,
+      "end_time": 1712,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿From Cacaopera? ¿Along with Medina Garay?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "51ec27c8-d917-4fa2-9de1-39af2c0d75c1"
+    },
+    {
+      "start_time": 1713,
+      "end_time": 1713,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marlene",
+          "category": "Person"
+        }
+      ],
+      "uuid": "2e4e5018-0c7b-4c39-8de1-a96c690b519c"
+    },
+    {
+      "start_time": 1713,
+      "end_time": 1718,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(music)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "f29d8f5c-6259-4fa1-aec4-c9aae9232eb2"
+    },
+    {
+      "start_time": 1719,
+      "end_time": 1730,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In that same massacre they killed José Santos Chica, Tomasa Romero, Felipa, Chica, Chabela Chica, Antolin Chica."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marlene",
+          "category": "Person"
+        }
+      ],
+      "uuid": "5c075beb-3701-4b4b-bab3-79f3383e3c5d"
+    },
+    {
+      "start_time": 1731,
+      "end_time": 1740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While the dictatorship talks of elections, our country talks about the reality of death and repression that El Salvador lives."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "4a33a4d6-8aeb-41da-bdbb-1261728ddd57"
+    },
+    {
+      "start_time": 1741,
+      "end_time": 1771,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eugenia Romero and a boy named Chepe Romero and Bernardino Romero, Leopoldo Chica, Agencia Romero. I only remember the ones I remember. A lot of people that I didn’t even know died, so I’m not counting them. Everyone they found in the houses were terminated, without leaving any family or anything."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marlene",
+          "category": "Person"
+        }
+      ],
+      "uuid": "9d5ec4e5-56e0-48fd-b9e2-f2da8822aedb"
+    },
+    {
+      "start_time": 1772,
+      "end_time": 1783,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(music)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "544283cc-6482-4762-9ac9-a1d980367968"
+    },
+    {
+      "start_time": 1784,
+      "end_time": 1799,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Over there, in that little house they found Vajina and María, and Ivan Santos, and further down, behind there, they killed Filomena, and even further down, they killed another lady, Tránsito. They were all old. They were elderly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marlene",
+          "category": "Person"
+        }
+      ],
+      "uuid": "f57e229c-51ea-4657-89c5-5cff55b29634"
+    },
+    {
+      "start_time": 1800,
+      "end_time": 1803,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this house that we’re passing, they also killed there. How many people?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "e9608395-0d38-4b5c-96de-f8e3321a755e"
+    },
+    {
+      "start_time": 1804,
+      "end_time": 1805,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They killed five there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Survivor"
+        }
+      ],
+      "uuid": "76e4aea2-2523-4598-be56-aa6c8c03ddb5"
+    },
+    {
+      "start_time": 1805,
+      "end_time": 1817,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(music)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "4a5cd28f-76f1-43d3-b475-8dddf05267d4"
+    },
+    {
+      "start_time": 1818,
+      "end_time": 1836,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now we’re crossing the El Chupadero river. We continue to move across the El Junquillo village and see the desolate landscape, the burnt houses, the human remains."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "00caa6d4-d51f-4729-b29b-d09a323810a0"
+    },
+    {
+      "start_time": 1837,
+      "end_time": 1876,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this opportunity we’ve found a peasant from this area, and his name is Filadelfo. In these moments we’re arriving at a house were his wife and children lived. It’s a return to a painful memory that Filadelfo has wanted to make so he could show the world all the horror and the entire genocidal nature of what happened in this area of El Junquillo. Comrade, tell us how many people lived in this house."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "94125a89-e9cc-48cb-834a-25949671d68e"
+    },
+    {
+      "start_time": 1877,
+      "end_time": 1883,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here they really killed ten. They killed them there, see."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Filadelfo",
+          "category": "Person"
+        }
+      ],
+      "uuid": "38a24315-8dca-4882-a8ca-9cfd8fd08c39"
+    },
+    {
+      "start_time": 1884,
+      "end_time": 1886,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Your wife died. Who else?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "bff27cfe-5625-4ba6-a5ac-6292d4fd3902"
+    },
+    {
+      "start_time": 1887,
+      "end_time": 1896,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, my wife and another lady, the mother of a friend. Another sister, too, and her daughter. They kill them both here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Filadelfo",
+          "category": "Person"
+        }
+      ],
+      "uuid": "51d3815c-2c5a-4ddd-abb4-b4a8022ec25a"
+    },
+    {
+      "start_time": 1896,
+      "end_time": 1897,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿How many of your children did they kill?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "1e657437-220e-40cf-973a-7cc4851e37ad"
+    },
+    {
+      "start_time": 1898,
+      "end_time": 1898,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They kill three of my children."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Filadelfo",
+          "category": "Person"
+        }
+      ],
+      "uuid": "535a503c-bc7e-429a-998a-5a55c684ca1c"
+    },
+    {
+      "start_time": 1899,
+      "end_time": 1899,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What ages were your children?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "a298a529-f60f-42f3-be86-5c46deda6e02"
+    },
+    {
+      "start_time": 1900,
+      "end_time": 1904,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, one of them was nine years old, another was four, and there was the two-month-old boy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Filadelfo",
+          "category": "Person"
+        }
+      ],
+      "uuid": "5ad72905-e91f-44b7-9ede-c3fd3d8ad00f"
+    },
+    {
+      "start_time": 1905,
+      "end_time": 1905,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A two-month baby?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "4f1624ff-c910-43b8-a9cb-d6beb4ea2825"
+    },
+    {
+      "start_time": 1906,
+      "end_time": 1906,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Filadelfo",
+          "category": "Person"
+        }
+      ],
+      "uuid": "7d9003ee-3995-400a-ad94-e7e6d7762141"
+    },
+    {
+      "start_time": 1907,
+      "end_time": 1943,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Small daughter of mine, Forgive me for falling silent, But this silence  is also a scream That reaches all men in the town, That in the early morning Left their lives to make possible Your dream, Daughter of mine."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "25d7c854-6d5c-427c-9075-128ebaf97a26"
+    },
+    {
+      "start_time": 1945,
+      "end_time": 1952,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With us is another comrade survivor of the massacre of El Junquillo. Comrade, tell us how everything happened."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "9ea151f1-cb1a-4575-9fd9-05d3244ffc09"
+    },
+    {
+      "start_time": 1953,
+      "end_time": 1963,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, comrade, the soldiers descended and attacked them without giving them time to leave."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Filadelfo",
+          "category": "Person"
+        }
+      ],
+      "uuid": "e68d8a84-00ab-4882-9d67-b7f3bf861e46"
+    },
+    {
+      "start_time": 1964,
+      "end_time": 1965,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that the 12th of March?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "29b33922-7d71-47c7-a2f9-c0850ed8fc8b"
+    },
+    {
+      "start_time": 1966,
+      "end_time": 1978,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, that was the 12th of March. Without being able to run. We men fled, but for the women and children it was impossible because, as you well know, children can’t run."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Filadelfo",
+          "category": "Person"
+        }
+      ],
+      "uuid": "58358b1b-c343-468b-b43d-0ea773517673"
+    },
+    {
+      "start_time": 1980,
+      "end_time": 1984,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why did many of the people not run when the soldiers arrived?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "0f8ce548-aa8e-4ed2-a8bd-f50b42997f2a"
+    },
+    {
+      "start_time": 1986,
+      "end_time": 2010,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As I said, we were lied to. They told us that the soldiers brought foreign journalists and that they couldn’t kill defenseless women and children in front of journalists. I speak of Capitan Medina Garay, yes, him. He made them get close when he came here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "26d63155-fb4d-4133-af3f-d3c8d144428a"
+    },
+    {
+      "start_time": 2011,
+      "end_time": 2017,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now we are here with a girl survivor also of the El Junquillo Massacre. What’s your name?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "41c02f42-b415-42db-becb-c3329abdf875"
+    },
+    {
+      "start_time": 2018,
+      "end_time": 2019,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Victoria Chica."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Victoria Chica",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "3a226844-6726-40aa-b366-6dc511b03832"
+    },
+    {
+      "start_time": 2021,
+      "end_time": 2025,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tell us, Victoria. How did all of this happen in El Junquillo?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "401d9122-f806-40ba-820a-a013cff8cd0d"
+    },
+    {
+      "start_time": 2026,
+      "end_time": 2068,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They came to massacre all those people, and what they did is to kill them with a knife. First, they say that a few groups passed there, by my father’s house, and they didn’t do anything. They left all those people alone. We saw they put a fence down here, that house they fenced in and they didn’t let the people out. Death was waiting for those that were fenced in. My father used to say--Of course, when the first group passed he ran away from the house, he didn’t wait. Only my mother stayed there, and she told him that was going to stay and that he should leave."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Victoria Chica",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "1cc0a146-f6b8-48df-a8e5-882707eae01d"
+    },
+    {
+      "start_time": 2068,
+      "end_time": 2072,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(Slight scraping sound)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Sound Effects",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "b79209d6-fa07-4f2e-8389-a0792a3deb31"
+    },
+    {
+      "start_time": 2072,
+      "end_time": 2076,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How many people in your family did Medina Garay assassinate?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "a1f8ee2c-de7e-462d-9d01-138eb2e6f63a"
+    },
+    {
+      "start_time": 2077,
+      "end_time": 2089,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Six. My mother was Rosa Otilia Diaz. Agustina Chica, Matildita Chica, Rosa Delia Chica, Mariano Chica, and Pedrito Chica."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Victoria Chica",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "e2039aa2-8548-4f52-b951-f47dacde9182"
+    },
+    {
+      "start_time": 2091,
+      "end_time": 2093,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And you were able to flee before the soldiers arrived?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "452feae0-6238-41b2-80c9-c89499f40880"
+    },
+    {
+      "start_time": 2093,
+      "end_time": 2098,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, I got out because she told me to, and so I couldn’t stay in the house."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Victoria Chica",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "7212eb97-c0fb-4f00-b658-f0ea0de861d2"
+    },
+    {
+      "start_time": 2099,
+      "end_time": 2101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(crackling fire)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Sound Effects",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "64847dfb-6ee0-45ec-b22d-3c7352b363ff"
+    },
+    {
+      "start_time": 2101,
+      "end_time": 2103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I’m sorry, your maicillo is burning. What do you want for El Salvador?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "ea7159ea-564f-4e9d-b79f-f00e35966278"
+    },
+    {
+      "start_time": 2103,
+      "end_time": 2107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(scraping)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Sound Effects",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "3cd61f27-e519-44c0-96ae-5bdfd97cf76b"
+    },
+    {
+      "start_time": 2111,
+      "end_time": 2115,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I’d like it to become a free country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Victoria Chica",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "b7ddf5a9-1d86-4f1f-a198-51f83a6ba2b4"
+    },
+    {
+      "start_time": 2116,
+      "end_time": 2117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How old are you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "3109b515-164e-4108-a217-06c55eded289"
+    },
+    {
+      "start_time": 2118,
+      "end_time": 2118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How old?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Victoria Chica",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "3f12c532-cfec-47a9-aeaf-fdb9a097ea0e"
+    },
+    {
+      "start_time": 2119,
+      "end_time": 2119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "a1c60e24-fa22-476a-8e3f-fe5ae6662791"
+    },
+    {
+      "start_time": 2120,
+      "end_time": 2120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thirteen years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Victoria Chica",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "2a708652-eac8-4d54-9276-6bff5fad4571"
+    },
+    {
+      "start_time": 2123,
+      "end_time": 2124,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What does a liberated country mean for you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporter",
+          "category": "Person"
+        }
+      ],
+      "uuid": "70547dd3-f943-44e3-abe7-1a82f22e152f"
+    },
+    {
+      "start_time": 2127,
+      "end_time": 2131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To live happily without bloodshed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Victoria Chica",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "02865258-659d-4e8c-8b4d-7e683f9b1a44"
+    },
+    {
+      "start_time": 2131,
+      "end_time": 2142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(scraping sounds and woman speaking in the background)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Sound Effects",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "b3dc05dd-f2d4-4b87-a749-091f75f5d5c9"
+    },
+    {
+      "start_time": 2143,
+      "end_time": 2213,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Small daughter of mine,  Who barely begins to feel  the passage of time on your girl’s skin And to look at the prints on your firm hands, That kiss mine before sleeping.   Small daughter of mine, I love you so much I don’t want to bequeath you the pain of my days, That is why I propose and I’m determined happiness That I sow with my song and it will become your cornstalk, And it will become your cornstalk.   Small daughter of mine,  When you ask me  Who owns the earth? Who owns poetry? Who owns bitterness? Who owns the smile? I kiss your eyes with the utmost tenderness.   Small daughter of mine,  I must explain to you That the struggle is hard,  But the wound is less painful when it is--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "b6b31aeb-83bb-418d-aa12-3e05cfa413a4"
+    },
+    {
+      "start_time": 2214,
+      "end_time": 2221,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From El Salvador, Central America, a territory in combat against oppression and imperialism."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "2b55ec99-f652-4bae-b7b4-0dd878fe7e62"
+    },
+    {
+      "start_time": 2222,
+      "end_time": 2236,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Radio Venceremos, the official voice of the Farabundo Marti National Liberation Front, transmits its signal of liberty from El Salvador, Central America."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "583449c2-3309-47c3-a50a-710fddceb4e4"
+    },
+    {
+      "start_time": 2237,
+      "end_time": 2248,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(music)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "1594a3eb-1f02-47c6-9d54-fdf66c03c981"
+    },
+    {
+      "start_time": 2249,
+      "end_time": 2253,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“The Creative Powers of our People.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Los Poderes Creadores del Pueblo",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "dd676c0d-a099-4b73-a4a6-e8dad9c615f2"
+    },
+    {
+      "start_time": 2254,
+      "end_time": 2351,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aída, we are the same. The days pass, We continue to be at war,  De same as Aquino, De same as Modesto Ramírez, My war, your war. The bullets pass, De ones of death and pain are the same. We continue to be at war, That of Ama, of Sanchez, The war that brought Oscar Arnulfo and Chacón, And Córdoba, of Agustín, Farabundo, Comrade, it’s the same one. De one of protests and of funerals, They’re the same ones.  Arms and legs and shoulders and feet,  They’re the same ones. At a gallop, they’re the same ones. The faces with eyes that throw lances at a gallop, Over the historic güiscoyol of the same souls, They’re the same ones. Except for today there aren’t enough streets, Or parks, Or mountains, For us, The same ones, Loud Pipiles in protest and at a gallop. Working men, Laboring fists, Women who smell of vegetables in the marketplaces. There isn’t any space in this small country for the peasant, Heart of golden grain, We continue at war, Our same unique song is heard everywhere. Peace, peace, and we are the same."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Poetry"
+        }
+      ],
+      "uuid": "56993a26-194e-4f0a-9905-0f986ab787ac"
+    },
+    {
+      "start_time": 2352,
+      "end_time": 2358,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(music)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "e0006ac7-18da-4305-b50f-8b3af35adeab"
+    },
+    {
+      "start_time": 2359,
+      "end_time": 2363,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the Creative Powers of our People."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Los Poderes Creadores del Pueblo",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "c86e9c35-dbd4-4a9c-85c8-1f691b95cd92"
+    },
+    {
+      "start_time": 2364,
+      "end_time": 2371,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(music)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "47a5123c-927c-4a30-be8c-df731e43bb15"
+    },
+    {
+      "start_time": 2372,
+      "end_time": 2381,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Up next, Radio Venceremos presents, Plomo Informativo against the dictatorship’s information siege."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Informational Lead",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "07fc6974-c0a0-4580-907e-41a578312268"
+    },
+    {
+      "start_time": 2382,
+      "end_time": 2460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here is our first information. The university counsels of the United States consider the necessity of not inviting government official to the graduation ceremonies or any other activities to prevent them from having bad experiences.  On Saturday, May 23rd, in several universities of the country, the advisor to the president, Secretary of State Alexander Hair and a US ambassador to the United Nations, were targets of student protests for their Yankee foreign policy, particularly the policy pertaining to El Salvador. President Advisor Erwin Leub, was invited to speak at the Law School at the University of San Ysidro, California. He was interrupted when a hundred students from outside the auditorium shouted, “No to the draft! No to the War! Get out of El Salvador!” More information when we reunite without militias on the ground."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Internacional",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "79f014c8-38e3-4899-8e09-ca0e9f98180f"
+    },
+    {
+      "start_time": 2460,
+      "end_time": 2507,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Band Tepehuani tours through Europe. The Band Tepehuani, a testimonial music group of our country carries out a tour through Europe. They had four concerts in France. In Great Britain, they visited several cities. Afterward, they had two performances in Belgium. Presently, they are in Germany where they will carry out a country-wide tour. Later, they will travel to Sweden, Denmark, and Finland. The concerts have proven the European people’s solidarity with our people’s struggle and the rejection of the United States' intervention in El Salvador’s internal issues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "International",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "fd75b8e2-8ebe-422c-ab24-35fee31f25f8"
+    },
+    {
+      "start_time": 2508,
+      "end_time": 2540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Next, information on Paris, France. The President of France, François Mitterrand tapped writer and journalist Regis Debray as his foreign policy advisor. Debray, who is 40 years of age, has a degree in Philosophy from the Univeristy of Soborna and he has an advanced education from the Superior National School, both of which are in Paris. He is part of the French Socialist Party since 1973."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "International",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "9d700911-7ff5-4483-b9df-40a0f392cf26"
+    },
+    {
+      "start_time": 2541,
+      "end_time": 2568,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Regis Debray was with Commander Ernesto “Che” Guevara during the struggle in Bolivia. In his last trip to Latin America, Regis Debray gave his complete support to the Salvadoran people’s struggle for peace and democracy against the military dictatorships that have oppressed the country for the past 50 years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "International",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "aae4fab6-0a0d-450e-8fdb-9101999855f9"
+    },
+    {
+      "start_time": 2569,
+      "end_time": 2602,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Washington. A large concentration of hundreds of North American citizens with hundreds of representatives from Black, juvenile, and other union organizations protested in this city against the racist terror in Atlanta under the slogan, “Save our people. Put an end to racist murders, protect our Atlanta youth, and No to the Salvadoran junta.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "International",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "92208850-ee67-4bad-b485-33dfe3ec9d4c"
+    },
+    {
+      "start_time": 2603,
+      "end_time": 2619,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While the United States states help the Salvadoran junta, it neglects the North American people to the extent that it permits racists and neo-fascists to wander freely throughout the North American territory."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "International",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "d2bd6504-0eeb-4e0d-b8c4-d0b103c6d53b"
+    },
+    {
+      "start_time": 2621,
+      "end_time": 2662,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "More information. Thugs from the dictatorship assassinate two union leaders in San Salvador.  The workers Carlos Ibrian Resinos and Jose Alirio Martinez were assassinated this past Tuesday, May 26th, by police officers dressed as civil society, according to reports by factory workers from the candy factory Delicia. The police officers were controlling the workers' entrance, inconspicuously posted in front of the factory when the unionists arrived. They shot them at point-blank range."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Casualties",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "67198671-9d0e-4d15-b903-3baa2b5951f4"
+    },
+    {
+      "start_time": 2663,
+      "end_time": 2710,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Carlos Ibrian Resinos, worked as the Secretary of Finances, and Jose Alirio Martinez Martinez as the General Secretary of the union. We strongly condemn and repudiate the dictatorship’s new attempt against the Salvadoran working class. At the same time, we join in solidarity with our comrades of the sweets and pasta industry union against this regime’s abuses, and we encourage them to continue forward in the struggle for their revindications and for a revolutionary and democratic government."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "75365fab-d983-4650-959d-88497c7c752f"
+    },
+    {
+      "start_time": 2711,
+      "end_time": 2722,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "…united, will never be defeated! The people, united, will never be defeated! The people, united, will never be defeated!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "f2902682-9262-4ace-bea3-c8bdb7d8ad09"
+    }
+  ],
   "set": "Default",
   "event_id": "9cc390bc-edb6-48e5-b507-c0d1808242df",
   "source_id": "fab23ebc-9ca4-4b77-99fa-035ba9724d3b"
